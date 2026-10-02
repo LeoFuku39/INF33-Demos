@@ -1,0 +1,23 @@
+/*TODO:
+- Add a 1-pixel solid border to all cells
+- Add 5 pixels of padding to the header cells
+- Add 5 pixels of margin to all of the discussions, lectures, and assignments
+*/
+
+th {
+	font-size: 150%;
+}
+
+.discussion {
+	background-color: limegreen;
+}
+
+.lecture {
+	background-color: royalblue;
+	color: white;
+}
+
+#a1 {
+	background-color: saddlebrown;
+	color: white;
+}

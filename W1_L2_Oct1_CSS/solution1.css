@@ -1,0 +1,25 @@
+/*TODO:
+- Increase the font size of the header row to 150%
+- Change the background for the discussion sections to limegreen
+- Change the background for the lectures to royalblue
+- Change the background for a1 to saddlebrown
+- Change the text color for the lectures and a1 to white
+*/
+
+th {
+	font-size: 150%;
+}
+
+.discussion {
+	background-color: limegreen;
+}
+
+.lecture {
+	background-color: royalblue;
+	color: white;
+}
+
+#a1 {
+	background-color: saddlebrown;
+	color: white;
+}

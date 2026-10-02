@@ -1,0 +1,11 @@
+.para {
+    font-family: Verdana;
+    background-color: #0064a4;
+    color: white;
+}
+
+em {
+    color: #ffd200;
+    font-style: italic;
+    font-weight: 700;
+}

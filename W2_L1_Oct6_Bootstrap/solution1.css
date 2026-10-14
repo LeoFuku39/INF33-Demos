@@ -1,0 +1,26 @@
+td, th {
+	border-width: 1px;
+	border-style: solid;
+}
+
+th {
+	font-size: 150%;
+	padding: 5px;
+}
+
+.discussion {
+	background-color: limegreen;
+	margin: 5px;
+}
+
+.lecture {
+	background-color: royalblue;
+	color: white;
+	margin: 5px;
+}
+
+#a1 {
+	background-color: saddlebrown;
+	color: white;
+	margin: 5px;
+}

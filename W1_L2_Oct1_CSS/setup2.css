@@ -4,20 +4,29 @@
 - Add 5 pixels of margin to all of the discussions, lectures, and assignments
 */
 
+td{
+	border-width: 1px;
+
+}
+
 th {
+	padding: 5px;
 	font-size: 150%;
 }
 
 .discussion {
 	background-color: limegreen;
+	margin: 5px;
 }
 
 .lecture {
 	background-color: royalblue;
 	color: white;
+	margin: 5px;
 }
 
 #a1 {
 	background-color: saddlebrown;
 	color: white;
+	margin: 5px;
 }
